@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Emploi du Temps</title>
+</head>
+<body>
+
+<h2>Emploi du Temps</h2>
+
+<table border="1" cellpadding="10" cellspacing="0">
+    <tr>
+        <th></th>
+        <th>08:00 - 09:30</th>
+        <th>09:30 - 11:00</th>
+        <th>11:00 - 12:30</th>
+        <th>12:30 - 14:00</th>
+        <th>14:00 - 15:30</th>
+        <th>15:30 - 17:00</th>
+    </tr>
+
+    <tr>
+        <th>Lundi</th>
+        <td>Programmation Python 2</td>
+        <td>Algorithme et Programmation C2</td>
+        <td></td>
+        <td>Algorithme et Programmation C2 TD G1</td>
+        <td>Programmation Python 2 TD G3</td>
+        <td>Programmation Python 2 TD G2</td>
+    </tr>
+
+    <tr>
+        <th>Mardi</th>
+        <td>Programmation Python 2 TD G1</td>
+        <td></td>
+        <td>Digital Skills & Intelligence Artificielle</td>
+        <td>Digital Skills & Intelligence Artificielle TD</td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <th>Mercredi</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Algorithme et Programmation C2 TD G2</td>
+        <td>Algèbre 2 TD</td>
+        <td>Analyse 2 TD</td>
+    </tr>
+
+    <tr>
+        <th>Jeudi</th>
+        <td>Traitement du Signal</td>
+        <td>Traitement du Signal TD</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <th>Vendredi</th>
+        <td>Algèbre 2</td>
+        <td>Analyse 2</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <th>Samedi</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Programmation Web 1 TD G2</td>
+        <td>Programmation Web 1</td>
+        <td>Programmation Web 1 TD G1</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
